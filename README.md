@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=14&text=Miniron&fontAlign=74&fontAlignY=40)
+
 # 안녕하세요!
 전 부경대학교 소속 **김민철**이라고 해요. <br>
 기술이 아닌 예술로써, 게임으로 많은 사람들에게 다양한 가치를 전달하는 걸 목표로 삼고 있어요.
