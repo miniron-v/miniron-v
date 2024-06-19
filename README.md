@@ -14,6 +14,7 @@
 - **2023.09.01** 부경대학교 중앙동아리 **WAP** 가입
 - **2023.12.06** [**시페니시아의 진주**](https://github.com/pknu-wap/The-Pearl-of-Siphenisia/releases) 데모 배포
 - **2024.01.13** [**검은고양이 미로**](https://store.onstove.com/ko/games/2960) 출시
+- **2024.06.07** [**Zenocide**](https://github.com/pknu-wap/Zenocide/releases/tag/Beta) 베타 시작, 출시 에정
 
 ## 연락하기
 이메일 : vedellan1519@gmail.com
