@@ -18,10 +18,10 @@
 - **2024.01.13.** [**검은고양이 미로**](https://store.onstove.com/ko/games/2960) 출시
 - **2024.11.01.** [**제노사이드(Zenocide)**](https://store.onstove.com/ko/games/4392) 출시
 - **2025.05.25.** [**Save the Earth**](https://github.com/miniron-v/Save-the-Earth-Release/releases/tag/Demo) 데모 배포
-- **2025.01.31~** **After Christmas** 개발 중
+- **2026.07.26.** 2026 넥슨 대학생 게임잼 **재밌넥** 우수상 [**연이음**](https://www.youtube.com/watch?v=DSHlwQWocGE&t=3s)
 
 ## 연락하기
-이메일 : vedellan1519@gmail.com   
+이메일 : miniron0116@gmail.com   
 블로그 : https://autumncat.tistory.com/
 <!--
 **miniron-v/miniron-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
